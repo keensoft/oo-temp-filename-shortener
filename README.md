@@ -2,9 +2,11 @@ Alfresco: OpenOffice Temp Filename Shortener
 ============================================
 When using Alfresco on a **Windows** platform, Alfresco temporal path can exceed easily Windows maximum path length.
 
-```C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-OpenOfficeContentTransformer-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-target-5667410859729336016.pdf```
+*C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-OpenOfficeContentTransformer-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-target-5667410859729336016.pdf*
 
 This addon provides an Alfresco Repo extension for OOoDirect subsystem which uses **OOCT** temporal prefix instead of Alfresco default **OpenOfficeContentTransformer**. So, about 77 additional characters are available for filenames in Alfresco.
+
+*C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OOCT-OOCT-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OOCT-target-5667410859729336016.pdf*
 
 This addon should not be used on Linux platforms.
 

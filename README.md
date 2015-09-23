@@ -2,11 +2,11 @@ Alfresco: OpenOffice Temp Filename Shortener
 ============================================
 When using Alfresco on a **Windows** platform, Alfresco temporal path can exceed easily Windows maximum path length.
 
-*C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-OpenOfficeContentTransformer-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-target-5667410859729336016.pdf*
+> C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-OpenOfficeContentTransformer-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OpenOfficeContentTransformer-target-5667410859729336016.pdf
 
 This addon provides an Alfresco Repo extension for OOoDirect subsystem which uses **OOCT** temporal prefix instead of Alfresco default **OpenOfficeContentTransformer**. So, about 77 additional characters are available for filenames in Alfresco.
 
-*C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OOCT-OOCT-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OOCT-target-5667410859729336016.pdf*
+> C:\Alfresco\apache-tomcat\temp\Alfresco\LargeFilenameToIncludeOnTransformation.docx-OOCT-OOCT-1442998872585\LargeFilenameToIncludeOnTransformation.docx-OOCT-target-5667410859729336016.pdf
 
 This addon should not be used on Linux platforms.
 
@@ -16,7 +16,7 @@ Downloading the ready-to-deploy-plugin
 --------------------------------------
 The binary distribution is made of two amp files:
 
-* [repo AMP](https://github.com/keensoft/alfresco-firma-pdf/releases/download/0.9.0/sign-document-0.9.0.amp)
+* [repo AMP](https://github.com/keensoft/oo-temp-filename-shortener/releases/download/1.0.0/oo-temp-filename-shortener.amp)
 
 You can install them by using standard [Alfresco deployment tools](http://docs.alfresco.com/community/tasks/dev-extensions-tutorials-simple-module-install-amp.html)
 

@@ -14,7 +14,7 @@ The plugin is licensed under the [LGPL v3.0](http://www.gnu.org/licenses/lgpl-3.
 
 Downloading the ready-to-deploy-plugin
 --------------------------------------
-The binary distribution is made of two amp files:
+The binary distribution is made of one AMP file:
 
 * [repo AMP](https://github.com/keensoft/oo-temp-filename-shortener/releases/download/1.0.0/oo-temp-filename-shortener.amp)
 

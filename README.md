@@ -14,9 +14,10 @@ The plugin is licensed under the [LGPL v3.0](http://www.gnu.org/licenses/lgpl-3.
 
 Downloading the ready-to-deploy-plugin
 --------------------------------------
-The binary distribution is made of one AMP file:
+The binary distribution is made of one AMP file, use 5.0.c or 5.0.d releases according to your Alfresco version:
 
-* [repo AMP](https://github.com/keensoft/oo-temp-filename-shortener/releases/download/1.0.0/oo-temp-filename-shortener.amp)
+* [repo AMP - 5.0.d](https://github.com/keensoft/oo-temp-filename-shortener/releases/download/5.0.d/oo-temp-filename-shortener.amp)
+* [repo AMP - 5.0.c](https://github.com/keensoft/oo-temp-filename-shortener/releases/download/5.0.c/oo-temp-filename-shortener.amp)
 
 You can install them by using standard [Alfresco deployment tools](http://docs.alfresco.com/community/tasks/dev-extensions-tutorials-simple-module-install-amp.html)
 

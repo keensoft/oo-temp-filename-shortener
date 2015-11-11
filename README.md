@@ -27,3 +27,7 @@ If you are new to Alfresco and the Alfresco Maven SDK, you should start by readi
 
 You can build the artifacts from source code using maven
 ```$ mvn clean package```
+
+Alfresco issue id
+-----------------
+This problem has been raised as [ALF-21479](https://issues.alfresco.com/jira/browse/ALF-21479) at Alfresco JIRA. Please check resolution status of this ticket and your Alfresco version before applying this patch to your installation.
